@@ -1,0 +1,26 @@
+body {
+        background: url("/Images/cat.jpg");
+        background-size: cover;
+        background-position: center;
+        color: white;
+      }
+      h1 {
+        color: wheat;
+      }
+      p {
+        color: whitesmoke;
+      }
+    
+      .card {
+        border-radius: 1em;
+        text-align: center;
+        padding: 1em;
+      }
+      .card:hover {
+        background-color: rgb(187, 187, 187);
+      }
+      .card img {
+        border-radius: 50%;
+        width: 85%;
+        margin: auto;
+      }
